@@ -4,3 +4,4 @@
 - Document retry and backoff strategy
 - Evaluate BFF pattern for mobile API
 - Consider moving auth to a separate microservice
+- Consider CQRS for write-heavy flows
