@@ -7,3 +7,4 @@
 - Consider CQRS for write-heavy flows
 - Review event sourcing vs state store trade-offs
 - Document retry and backoff strategy
+- Review event sourcing vs state store trade-offs
