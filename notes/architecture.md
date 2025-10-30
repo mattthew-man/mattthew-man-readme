@@ -11,3 +11,4 @@
 - Plan migration from REST to tRPC
 - Evaluate BFF pattern for mobile API
 - Document DB indexing strategy for analytics queries
+- Audit service boundary definitions
