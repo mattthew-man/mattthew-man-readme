@@ -9,3 +9,4 @@
 - RFC 9110 HTTP Semantics
 - A11Y Project checklist v3
 - HTTP caching decision tree
+- V8 optimisation flags cheatsheet
