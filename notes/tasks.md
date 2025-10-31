@@ -4,3 +4,4 @@
 - Set up staging deploy pipeline
 - Set up staging deploy pipeline
 - Resolve accessibility audit findings
+- Resolve accessibility audit findings
