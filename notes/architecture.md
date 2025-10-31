@@ -12,3 +12,4 @@
 - Evaluate BFF pattern for mobile API
 - Document DB indexing strategy for analytics queries
 - Audit service boundary definitions
+- Investigate edge caching for static API responses
