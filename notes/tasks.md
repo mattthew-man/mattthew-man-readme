@@ -7,3 +7,4 @@
 - Resolve accessibility audit findings
 - Schedule design review with stakeholders
 - Document deployment runbook
+- Review open Dependabot PRs
