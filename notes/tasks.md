@@ -8,3 +8,4 @@
 - Schedule design review with stakeholders
 - Document deployment runbook
 - Review open Dependabot PRs
+- Coordinate API versioning with mobile team
