@@ -13,3 +13,4 @@
 - V8 optimisation flags cheatsheet
 - V8 optimisation flags cheatsheet
 - HTTP caching decision tree
+- Git internals: pack files and deltas
