@@ -9,3 +9,4 @@
 - Document deployment runbook
 - Review open Dependabot PRs
 - Coordinate API versioning with mobile team
+- Schedule design review with stakeholders
