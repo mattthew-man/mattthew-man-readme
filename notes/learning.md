@@ -7,3 +7,4 @@
 - Reviewed RFC for cookie partitioning
 - Reviewed RFC for cookie partitioning
 - Explored radix UI primitive components
+- Studied HTTP/3 connection migration
