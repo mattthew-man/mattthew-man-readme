@@ -7,3 +7,4 @@
 - Interactive skills radar chart
 - Auto-detect user timezone for datetime display
 - Interactive skills radar chart
+- Add keyboard shortcut overlay (shift+?)
