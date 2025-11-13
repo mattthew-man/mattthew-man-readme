@@ -16,3 +16,4 @@
 - Git internals: pack files and deltas
 - A11Y Project checklist v3
 - V8 optimisation flags cheatsheet
+- RFC 9110 HTTP Semantics
