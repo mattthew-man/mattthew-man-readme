@@ -9,3 +9,4 @@
 - Explored radix UI primitive components
 - Studied HTTP/3 connection migration
 - Reviewed Signals proposal for reactivity
+- Completed module on WebAssembly basics
