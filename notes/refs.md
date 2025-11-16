@@ -19,3 +19,4 @@
 - RFC 9110 HTTP Semantics
 - Node.js streams handbook
 - Resilience patterns: circuit breaker, bulkhead
+- Node.js streams handbook
