@@ -12,3 +12,4 @@
 - Schedule design review with stakeholders
 - Update feature flags for next release
 - Document deployment runbook
+- Profile main bundle for size regressions
