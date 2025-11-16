@@ -13,3 +13,4 @@
 - Update feature flags for next release
 - Document deployment runbook
 - Profile main bundle for size regressions
+- Audit Lighthouse scores after latest changes
