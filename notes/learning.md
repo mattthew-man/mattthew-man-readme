@@ -10,3 +10,4 @@
 - Studied HTTP/3 connection migration
 - Reviewed Signals proposal for reactivity
 - Completed module on WebAssembly basics
+- Reviewed Signals proposal for reactivity
