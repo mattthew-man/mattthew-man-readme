@@ -10,3 +10,4 @@
 - Add keyboard shortcut overlay (shift+?)
 - Interactive skills radar chart
 - Consider a /uses page
+- Explore generative backgrounds for hero section
