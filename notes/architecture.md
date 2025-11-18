@@ -15,3 +15,4 @@
 - Investigate edge caching for static API responses
 - Review event sourcing vs state store trade-offs
 - Evaluate feature flag service options
+- Consider moving auth to a separate microservice
