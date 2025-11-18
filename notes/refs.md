@@ -20,3 +20,4 @@
 - Node.js streams handbook
 - Resilience patterns: circuit breaker, bulkhead
 - Node.js streams handbook
+- V8 optimisation flags cheatsheet
