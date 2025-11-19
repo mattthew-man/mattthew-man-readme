@@ -21,3 +21,4 @@
 - Resilience patterns: circuit breaker, bulkhead
 - Node.js streams handbook
 - V8 optimisation flags cheatsheet
+- https://tc39.es/ecma262 - ECMAScript spec reference
