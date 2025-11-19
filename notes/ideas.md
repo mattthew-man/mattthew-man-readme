@@ -12,3 +12,4 @@
 - Consider a /uses page
 - Explore generative backgrounds for hero section
 - Experiment with variable fonts for performance
+- Explore generative backgrounds for hero section
