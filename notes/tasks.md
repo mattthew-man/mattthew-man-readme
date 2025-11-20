@@ -15,3 +15,4 @@
 - Profile main bundle for size regressions
 - Audit Lighthouse scores after latest changes
 - Update feature flags for next release
+- Profile main bundle for size regressions
