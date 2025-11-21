@@ -17,3 +17,4 @@
 - Evaluate feature flag service options
 - Consider moving auth to a separate microservice
 - Consider CQRS for write-heavy flows
+- Consider CQRS for write-heavy flows
