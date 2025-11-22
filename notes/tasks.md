@@ -18,3 +18,4 @@
 - Profile main bundle for size regressions
 - Resolve accessibility audit findings
 - Review open Dependabot PRs
+- Schedule design review with stakeholders
