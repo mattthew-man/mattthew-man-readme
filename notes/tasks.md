@@ -17,3 +17,4 @@
 - Update feature flags for next release
 - Profile main bundle for size regressions
 - Resolve accessibility audit findings
+- Review open Dependabot PRs
