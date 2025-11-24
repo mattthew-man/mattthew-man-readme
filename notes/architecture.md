@@ -19,3 +19,4 @@
 - Consider CQRS for write-heavy flows
 - Consider CQRS for write-heavy flows
 - Document retry and backoff strategy
+- Investigate edge caching for static API responses
