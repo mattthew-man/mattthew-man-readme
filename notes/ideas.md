@@ -14,3 +14,4 @@
 - Experiment with variable fonts for performance
 - Explore generative backgrounds for hero section
 - Add reading time estimate to blog posts
+- Explore generative backgrounds for hero section
