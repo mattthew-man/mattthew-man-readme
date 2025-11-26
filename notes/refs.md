@@ -23,3 +23,4 @@
 - V8 optimisation flags cheatsheet
 - https://tc39.es/ecma262 - ECMAScript spec reference
 - Git internals: pack files and deltas
+- Resilience patterns: circuit breaker, bulkhead
