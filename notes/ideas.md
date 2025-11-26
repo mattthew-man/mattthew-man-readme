@@ -15,3 +15,4 @@
 - Explore generative backgrounds for hero section
 - Add reading time estimate to blog posts
 - Explore generative backgrounds for hero section
+- Consider a /uses page
