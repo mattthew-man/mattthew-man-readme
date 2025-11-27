@@ -25,3 +25,4 @@
 - Git internals: pack files and deltas
 - Resilience patterns: circuit breaker, bulkhead
 - https://web.dev/articles/vitals - Core Web Vitals
+- A11Y Project checklist v3
