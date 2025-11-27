@@ -14,3 +14,4 @@
 - Read OWASP top 10 2025 updates
 - Completed module on WebAssembly basics
 - Reviewed Signals proposal for reactivity
+- Reviewed RFC for cookie partitioning
