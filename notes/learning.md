@@ -15,3 +15,4 @@
 - Completed module on WebAssembly basics
 - Reviewed Signals proposal for reactivity
 - Reviewed RFC for cookie partitioning
+- Experimented with CSS container queries
