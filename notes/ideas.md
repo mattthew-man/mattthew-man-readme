@@ -17,3 +17,4 @@
 - Explore generative backgrounds for hero section
 - Consider a /uses page
 - Auto-detect user timezone for datetime display
+- Auto-detect user timezone for datetime display
