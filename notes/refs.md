@@ -27,3 +27,4 @@
 - https://web.dev/articles/vitals - Core Web Vitals
 - A11Y Project checklist v3
 - https://tc39.es/ecma262 - ECMAScript spec reference
+- Resilience patterns: circuit breaker, bulkhead
