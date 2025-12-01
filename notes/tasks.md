@@ -20,3 +20,4 @@
 - Review open Dependabot PRs
 - Schedule design review with stakeholders
 - Review open Dependabot PRs
+- Coordinate API versioning with mobile team
