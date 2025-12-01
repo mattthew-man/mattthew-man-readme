@@ -19,3 +19,4 @@
 - Resolve accessibility audit findings
 - Review open Dependabot PRs
 - Schedule design review with stakeholders
+- Review open Dependabot PRs
