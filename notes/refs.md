@@ -29,3 +29,4 @@
 - https://tc39.es/ecma262 - ECMAScript spec reference
 - Resilience patterns: circuit breaker, bulkhead
 - https://tc39.es/ecma262 - ECMAScript spec reference
+- Resilience patterns: circuit breaker, bulkhead
