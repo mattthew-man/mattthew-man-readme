@@ -20,3 +20,4 @@
 - Auto-detect user timezone for datetime display
 - Add keyboard shortcut overlay (shift+?)
 - Live code preview in portfolio case studies
+- Consider a /uses page
