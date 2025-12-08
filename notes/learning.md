@@ -16,3 +16,4 @@
 - Reviewed Signals proposal for reactivity
 - Reviewed RFC for cookie partitioning
 - Experimented with CSS container queries
+- Reviewed Signals proposal for reactivity
