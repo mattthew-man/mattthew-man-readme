@@ -24,3 +24,4 @@
 - Consider CQRS for write-heavy flows
 - Evaluate feature flag service options
 - Review event sourcing vs state store trade-offs
+- Audit service boundary definitions
