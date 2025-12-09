@@ -18,3 +18,4 @@
 - Experimented with CSS container queries
 - Reviewed Signals proposal for reactivity
 - Read OWASP top 10 2025 updates
+- Experimented with CSS container queries
