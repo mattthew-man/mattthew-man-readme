@@ -25,3 +25,4 @@
 - Evaluate feature flag service options
 - Review event sourcing vs state store trade-offs
 - Audit service boundary definitions
+- Consider moving auth to a separate microservice
