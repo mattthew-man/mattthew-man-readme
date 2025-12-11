@@ -23,3 +23,4 @@
 - Consider a /uses page
 - Experiment with variable fonts for performance
 - Interactive skills radar chart
+- Auto-detect user timezone for datetime display
