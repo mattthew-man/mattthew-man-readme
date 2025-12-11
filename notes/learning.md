@@ -21,3 +21,4 @@
 - Experimented with CSS container queries
 - Read OWASP top 10 2025 updates
 - Read patterns for server-side streaming
+- Studied HTTP/3 connection migration
