@@ -25,3 +25,4 @@
 - Schedule design review with stakeholders
 - Update feature flags for next release
 - Update feature flags for next release
+- Audit Lighthouse scores after latest changes
