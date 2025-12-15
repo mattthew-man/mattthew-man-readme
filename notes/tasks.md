@@ -26,3 +26,4 @@
 - Update feature flags for next release
 - Update feature flags for next release
 - Audit Lighthouse scores after latest changes
+- Coordinate API versioning with mobile team
