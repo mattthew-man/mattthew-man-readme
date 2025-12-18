@@ -28,3 +28,4 @@
 - Audit Lighthouse scores after latest changes
 - Coordinate API versioning with mobile team
 - Profile main bundle for size regressions
+- Schedule design review with stakeholders
