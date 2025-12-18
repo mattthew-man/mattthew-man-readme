@@ -26,3 +26,4 @@
 - Experimented with CSS container queries
 - Read patterns for server-side streaming
 - Followed WebGPU getting-started guide
+- Followed WebGPU getting-started guide
