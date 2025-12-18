@@ -25,3 +25,4 @@
 - Read OWASP top 10 2025 updates
 - Experimented with CSS container queries
 - Read patterns for server-side streaming
+- Followed WebGPU getting-started guide
