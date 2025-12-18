@@ -28,3 +28,4 @@
 - Consider moving auth to a separate microservice
 - Evaluate BFF pattern for mobile API
 - Document DB indexing strategy for analytics queries
+- Consider moving auth to a separate microservice
