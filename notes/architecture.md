@@ -30,3 +30,4 @@
 - Document DB indexing strategy for analytics queries
 - Consider moving auth to a separate microservice
 - Review event sourcing vs state store trade-offs
+- Document DB indexing strategy for analytics queries
