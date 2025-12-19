@@ -29,3 +29,4 @@
 - Followed WebGPU getting-started guide
 - Experimented with CSS container queries
 - Reviewed Signals proposal for reactivity
+- Read patterns for server-side streaming
