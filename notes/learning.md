@@ -28,3 +28,4 @@
 - Followed WebGPU getting-started guide
 - Followed WebGPU getting-started guide
 - Experimented with CSS container queries
+- Reviewed Signals proposal for reactivity
