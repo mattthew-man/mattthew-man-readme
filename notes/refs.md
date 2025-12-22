@@ -34,3 +34,4 @@
 - https://tc39.es/ecma262 - ECMAScript spec reference
 - A11Y Project checklist v3
 - Git internals: pack files and deltas
+- MDN: CSS Cascade Layers deep dive
