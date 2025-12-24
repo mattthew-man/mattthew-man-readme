@@ -33,3 +33,4 @@
 - Experimented with CSS container queries
 - Experimented with CSS container queries
 - Read through the Temporal API proposal
+- Completed module on WebAssembly basics
