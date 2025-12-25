@@ -30,3 +30,4 @@
 - Profile main bundle for size regressions
 - Schedule design review with stakeholders
 - Audit Lighthouse scores after latest changes
+- Update feature flags for next release
