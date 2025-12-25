@@ -38,3 +38,4 @@
 - HTTP caching decision tree
 - V8 optimisation flags cheatsheet
 - MDN: CSS Cascade Layers deep dive
+- https://web.dev/articles/vitals - Core Web Vitals
