@@ -33,3 +33,4 @@
 - Document DB indexing strategy for analytics queries
 - Document retry and backoff strategy
 - Document DB indexing strategy for analytics queries
+- Evaluate BFF pattern for mobile API
