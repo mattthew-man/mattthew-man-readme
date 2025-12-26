@@ -32,3 +32,4 @@
 - Review event sourcing vs state store trade-offs
 - Document DB indexing strategy for analytics queries
 - Document retry and backoff strategy
+- Document DB indexing strategy for analytics queries
