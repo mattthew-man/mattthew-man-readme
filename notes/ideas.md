@@ -25,3 +25,4 @@
 - Interactive skills radar chart
 - Auto-detect user timezone for datetime display
 - Explore generative backgrounds for hero section
+- Interactive skills radar chart
