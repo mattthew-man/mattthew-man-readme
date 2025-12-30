@@ -35,3 +35,4 @@
 - Read through the Temporal API proposal
 - Completed module on WebAssembly basics
 - Followed WebGPU getting-started guide
+- Followed WebGPU getting-started guide
