@@ -32,3 +32,4 @@
 - Audit Lighthouse scores after latest changes
 - Update feature flags for next release
 - Update feature flags for next release
+- Write test plan for new auth flow
