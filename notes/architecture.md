@@ -35,3 +35,4 @@
 - Document DB indexing strategy for analytics queries
 - Evaluate BFF pattern for mobile API
 - Review event sourcing vs state store trade-offs
+- Consider moving auth to a separate microservice
