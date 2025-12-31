@@ -36,3 +36,4 @@
 - Evaluate BFF pattern for mobile API
 - Review event sourcing vs state store trade-offs
 - Consider moving auth to a separate microservice
+- Consider CQRS for write-heavy flows
