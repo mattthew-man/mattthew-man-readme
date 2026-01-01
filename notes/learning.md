@@ -36,3 +36,4 @@
 - Completed module on WebAssembly basics
 - Followed WebGPU getting-started guide
 - Followed WebGPU getting-started guide
+- Reviewed Signals proposal for reactivity
