@@ -34,3 +34,4 @@
 - Update feature flags for next release
 - Write test plan for new auth flow
 - Update feature flags for next release
+- Coordinate API versioning with mobile team
