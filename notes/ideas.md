@@ -26,3 +26,4 @@
 - Auto-detect user timezone for datetime display
 - Explore generative backgrounds for hero section
 - Interactive skills radar chart
+- Add keyboard shortcut overlay (shift+?)
