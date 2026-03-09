@@ -27,3 +27,4 @@
 - Explore generative backgrounds for hero section
 - Interactive skills radar chart
 - Add keyboard shortcut overlay (shift+?)
+- Interactive skills radar chart
