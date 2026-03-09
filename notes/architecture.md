@@ -39,3 +39,4 @@
 - Consider CQRS for write-heavy flows
 - Consider CQRS for write-heavy flows
 - Evaluate feature flag service options
+- Consider CQRS for write-heavy flows
