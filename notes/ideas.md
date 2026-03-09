@@ -28,3 +28,4 @@
 - Interactive skills radar chart
 - Add keyboard shortcut overlay (shift+?)
 - Interactive skills radar chart
+- Interactive skills radar chart
