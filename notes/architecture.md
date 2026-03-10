@@ -40,3 +40,4 @@
 - Consider CQRS for write-heavy flows
 - Evaluate feature flag service options
 - Consider CQRS for write-heavy flows
+- Audit service boundary definitions
