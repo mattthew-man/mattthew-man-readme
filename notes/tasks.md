@@ -36,3 +36,4 @@
 - Update feature flags for next release
 - Coordinate API versioning with mobile team
 - Set up staging deploy pipeline
+- Profile main bundle for size regressions
