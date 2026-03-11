@@ -30,3 +30,4 @@
 - Interactive skills radar chart
 - Interactive skills radar chart
 - Add keyboard shortcut overlay (shift+?)
+- Progressive disclosure for long form content
