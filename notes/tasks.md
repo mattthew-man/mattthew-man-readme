@@ -35,3 +35,4 @@
 - Write test plan for new auth flow
 - Update feature flags for next release
 - Coordinate API versioning with mobile team
+- Set up staging deploy pipeline
