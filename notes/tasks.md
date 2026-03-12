@@ -37,3 +37,4 @@
 - Coordinate API versioning with mobile team
 - Set up staging deploy pipeline
 - Profile main bundle for size regressions
+- Audit Lighthouse scores after latest changes
