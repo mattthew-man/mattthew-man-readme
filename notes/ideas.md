@@ -32,3 +32,4 @@
 - Add keyboard shortcut overlay (shift+?)
 - Progressive disclosure for long form content
 - Inline editing for quick content fixes
+- Auto-detect user timezone for datetime display
