@@ -43,3 +43,4 @@
 - https://tc39.es/ecma262 - ECMAScript spec reference
 - Resilience patterns: circuit breaker, bulkhead
 - RFC 9110 HTTP Semantics
+- https://web.dev/articles/vitals - Core Web Vitals
