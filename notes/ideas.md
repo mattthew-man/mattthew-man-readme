@@ -35,3 +35,4 @@
 - Auto-detect user timezone for datetime display
 - Consider a /uses page
 - Consider a /uses page
+- Inline editing for quick content fixes
