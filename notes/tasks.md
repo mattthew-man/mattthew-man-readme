@@ -39,3 +39,4 @@
 - Profile main bundle for size regressions
 - Audit Lighthouse scores after latest changes
 - Resolve accessibility audit findings
+- Schedule design review with stakeholders
