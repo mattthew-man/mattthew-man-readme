@@ -37,3 +37,4 @@
 - Consider a /uses page
 - Inline editing for quick content fixes
 - Progressive disclosure for long form content
+- Add reading time estimate to blog posts
