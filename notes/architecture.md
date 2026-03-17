@@ -41,3 +41,4 @@
 - Evaluate feature flag service options
 - Consider CQRS for write-heavy flows
 - Audit service boundary definitions
+- Plan migration from REST to tRPC
