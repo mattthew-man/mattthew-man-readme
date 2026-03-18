@@ -41,3 +41,4 @@
 - Reviewed Signals proposal for reactivity
 - Read OWASP top 10 2025 updates
 - Followed WebGPU getting-started guide
+- Reviewed Signals proposal for reactivity
