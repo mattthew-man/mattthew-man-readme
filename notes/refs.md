@@ -46,3 +46,4 @@
 - https://web.dev/articles/vitals - Core Web Vitals
 - MDN: CSS Cascade Layers deep dive
 - Git internals: pack files and deltas
+- V8 optimisation flags cheatsheet
