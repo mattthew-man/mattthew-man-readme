@@ -44,3 +44,4 @@
 - Reviewed Signals proposal for reactivity
 - Experimented with CSS container queries
 - Followed WebGPU getting-started guide
+- Read patterns for server-side streaming
