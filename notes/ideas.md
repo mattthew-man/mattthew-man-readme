@@ -39,3 +39,4 @@
 - Progressive disclosure for long form content
 - Add reading time estimate to blog posts
 - Add reading time estimate to blog posts
+- Auto-detect user timezone for datetime display
