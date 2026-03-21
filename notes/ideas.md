@@ -41,3 +41,4 @@
 - Add reading time estimate to blog posts
 - Auto-detect user timezone for datetime display
 - Add keyboard shortcut overlay (shift+?)
+- Inline editing for quick content fixes
