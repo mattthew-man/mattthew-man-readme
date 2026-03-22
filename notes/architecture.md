@@ -44,3 +44,4 @@
 - Plan migration from REST to tRPC
 - Consider CQRS for write-heavy flows
 - Document DB indexing strategy for analytics queries
+- Consider moving auth to a separate microservice
