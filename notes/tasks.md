@@ -41,3 +41,4 @@
 - Resolve accessibility audit findings
 - Schedule design review with stakeholders
 - Schedule design review with stakeholders
+- Resolve accessibility audit findings
