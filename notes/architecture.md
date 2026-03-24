@@ -46,3 +46,4 @@
 - Document DB indexing strategy for analytics queries
 - Consider moving auth to a separate microservice
 - Evaluate BFF pattern for mobile API
+- Consider CQRS for write-heavy flows
