@@ -42,3 +42,4 @@
 - Auto-detect user timezone for datetime display
 - Add keyboard shortcut overlay (shift+?)
 - Inline editing for quick content fixes
+- Add keyboard shortcut overlay (shift+?)
