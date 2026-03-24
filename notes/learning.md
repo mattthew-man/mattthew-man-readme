@@ -49,3 +49,4 @@
 - Read OWASP top 10 2025 updates
 - Studied HTTP/3 connection migration
 - Reviewed RFC for cookie partitioning
+- Studied HTTP/3 connection migration
