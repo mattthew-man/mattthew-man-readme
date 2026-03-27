@@ -51,3 +51,4 @@
 - Git internals: pack files and deltas
 - HTTP caching decision tree
 - Resilience patterns: circuit breaker, bulkhead
+- RFC 9110 HTTP Semantics
