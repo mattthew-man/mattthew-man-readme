@@ -43,3 +43,4 @@
 - Schedule design review with stakeholders
 - Resolve accessibility audit findings
 - Set up staging deploy pipeline
+- Resolve accessibility audit findings
