@@ -50,3 +50,4 @@
 - HTTP caching decision tree
 - Git internals: pack files and deltas
 - HTTP caching decision tree
+- Resilience patterns: circuit breaker, bulkhead
