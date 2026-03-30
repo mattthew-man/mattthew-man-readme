@@ -50,3 +50,4 @@
 - Studied HTTP/3 connection migration
 - Reviewed RFC for cookie partitioning
 - Studied HTTP/3 connection migration
+- Experimented with CSS container queries
