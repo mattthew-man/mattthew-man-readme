@@ -51,3 +51,4 @@
 - Reviewed RFC for cookie partitioning
 - Studied HTTP/3 connection migration
 - Experimented with CSS container queries
+- Completed module on WebAssembly basics
