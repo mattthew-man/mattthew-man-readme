@@ -48,3 +48,4 @@
 - Evaluate BFF pattern for mobile API
 - Consider CQRS for write-heavy flows
 - Consider moving auth to a separate microservice
+- Evaluate feature flag service options
