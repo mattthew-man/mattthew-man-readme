@@ -45,3 +45,4 @@
 - Add keyboard shortcut overlay (shift+?)
 - Consider a /uses page
 - Add keyboard shortcut overlay (shift+?)
+- Add reading time estimate to blog posts
