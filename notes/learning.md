@@ -52,3 +52,4 @@
 - Studied HTTP/3 connection migration
 - Experimented with CSS container queries
 - Completed module on WebAssembly basics
+- Experimented with CSS container queries
