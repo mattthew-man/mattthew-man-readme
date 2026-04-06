@@ -54,3 +54,4 @@
 - RFC 9110 HTTP Semantics
 - Resilience patterns: circuit breaker, bulkhead
 - Node.js streams handbook
+- HTTP caching decision tree
