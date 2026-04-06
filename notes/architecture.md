@@ -51,3 +51,4 @@
 - Evaluate feature flag service options
 - Evaluate BFF pattern for mobile API
 - Document retry and backoff strategy
+- Consider moving auth to a separate microservice
