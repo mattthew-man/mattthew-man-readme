@@ -47,3 +47,4 @@
 - Set up staging deploy pipeline
 - Write test plan for new auth flow
 - Profile main bundle for size regressions
+- Document deployment runbook
