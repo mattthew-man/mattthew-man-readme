@@ -55,3 +55,4 @@
 - Resilience patterns: circuit breaker, bulkhead
 - Node.js streams handbook
 - HTTP caching decision tree
+- Node.js streams handbook
