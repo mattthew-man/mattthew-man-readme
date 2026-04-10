@@ -47,3 +47,4 @@
 - Add keyboard shortcut overlay (shift+?)
 - Add reading time estimate to blog posts
 - Add reading time estimate to blog posts
+- Live code preview in portfolio case studies
