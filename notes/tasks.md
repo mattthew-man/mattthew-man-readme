@@ -52,3 +52,4 @@
 - Resolve accessibility audit findings
 - Coordinate API versioning with mobile team
 - Review open Dependabot PRs
+- Schedule design review with stakeholders
