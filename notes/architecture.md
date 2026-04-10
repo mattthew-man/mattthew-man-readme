@@ -53,3 +53,4 @@
 - Document retry and backoff strategy
 - Consider moving auth to a separate microservice
 - Review event sourcing vs state store trade-offs
+- Audit service boundary definitions
