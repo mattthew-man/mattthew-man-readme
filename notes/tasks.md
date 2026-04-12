@@ -53,3 +53,4 @@
 - Coordinate API versioning with mobile team
 - Review open Dependabot PRs
 - Schedule design review with stakeholders
+- Resolve accessibility audit findings
