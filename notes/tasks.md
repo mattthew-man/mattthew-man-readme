@@ -54,3 +54,4 @@
 - Review open Dependabot PRs
 - Schedule design review with stakeholders
 - Resolve accessibility audit findings
+- Audit Lighthouse scores after latest changes
