@@ -55,3 +55,4 @@
 - Schedule design review with stakeholders
 - Resolve accessibility audit findings
 - Audit Lighthouse scores after latest changes
+- Update feature flags for next release
