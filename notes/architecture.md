@@ -55,3 +55,4 @@
 - Review event sourcing vs state store trade-offs
 - Audit service boundary definitions
 - Document DB indexing strategy for analytics queries
+- Review event sourcing vs state store trade-offs
