@@ -59,3 +59,4 @@
 - Experimented with CSS container queries
 - Studied HTTP/3 connection migration
 - Reviewed RFC for cookie partitioning
+- Read through the Temporal API proposal
