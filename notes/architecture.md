@@ -56,3 +56,4 @@
 - Audit service boundary definitions
 - Document DB indexing strategy for analytics queries
 - Review event sourcing vs state store trade-offs
+- Consider moving auth to a separate microservice
