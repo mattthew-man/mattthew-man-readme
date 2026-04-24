@@ -62,3 +62,4 @@
 - Read through the Temporal API proposal
 - Reviewed RFC for cookie partitioning
 - Completed module on WebAssembly basics
+- Followed WebGPU getting-started guide
