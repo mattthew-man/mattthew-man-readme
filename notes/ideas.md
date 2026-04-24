@@ -51,3 +51,4 @@
 - Explore generative backgrounds for hero section
 - Add reading time estimate to blog posts
 - Auto-detect user timezone for datetime display
+- Consider a /uses page
