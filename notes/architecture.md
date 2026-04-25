@@ -59,3 +59,4 @@
 - Consider moving auth to a separate microservice
 - Consider moving auth to a separate microservice
 - Audit service boundary definitions
+- Consider CQRS for write-heavy flows
