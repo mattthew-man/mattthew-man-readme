@@ -60,3 +60,4 @@
 - Audit Lighthouse scores after latest changes
 - Profile main bundle for size regressions
 - Document deployment runbook
+- Resolve accessibility audit findings
