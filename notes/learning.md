@@ -64,3 +64,4 @@
 - Completed module on WebAssembly basics
 - Followed WebGPU getting-started guide
 - Completed module on WebAssembly basics
+- Completed module on WebAssembly basics
