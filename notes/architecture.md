@@ -61,3 +61,4 @@
 - Audit service boundary definitions
 - Consider CQRS for write-heavy flows
 - Consider CQRS for write-heavy flows
+- Review event sourcing vs state store trade-offs
