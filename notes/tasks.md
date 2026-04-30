@@ -61,3 +61,4 @@
 - Profile main bundle for size regressions
 - Document deployment runbook
 - Resolve accessibility audit findings
+- Schedule design review with stakeholders
