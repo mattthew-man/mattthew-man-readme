@@ -66,3 +66,4 @@
 - Completed module on WebAssembly basics
 - Completed module on WebAssembly basics
 - Reviewed Signals proposal for reactivity
+- Reviewed Signals proposal for reactivity
