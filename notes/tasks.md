@@ -62,3 +62,4 @@
 - Document deployment runbook
 - Resolve accessibility audit findings
 - Schedule design review with stakeholders
+- Write test plan for new auth flow
