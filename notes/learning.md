@@ -67,3 +67,4 @@
 - Completed module on WebAssembly basics
 - Reviewed Signals proposal for reactivity
 - Reviewed Signals proposal for reactivity
+- Read OWASP top 10 2025 updates
