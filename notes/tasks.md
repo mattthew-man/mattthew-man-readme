@@ -63,3 +63,4 @@
 - Resolve accessibility audit findings
 - Schedule design review with stakeholders
 - Write test plan for new auth flow
+- Coordinate API versioning with mobile team
