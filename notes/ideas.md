@@ -53,3 +53,4 @@
 - Auto-detect user timezone for datetime display
 - Consider a /uses page
 - Interactive skills radar chart
+- Add reading time estimate to blog posts
