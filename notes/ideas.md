@@ -55,3 +55,4 @@
 - Interactive skills radar chart
 - Add reading time estimate to blog posts
 - Consider a /uses page
+- Inline editing for quick content fixes
