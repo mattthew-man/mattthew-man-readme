@@ -57,3 +57,4 @@
 - Consider a /uses page
 - Inline editing for quick content fixes
 - Interactive skills radar chart
+- Interactive skills radar chart
