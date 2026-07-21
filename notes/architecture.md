@@ -63,3 +63,4 @@
 - Consider CQRS for write-heavy flows
 - Review event sourcing vs state store trade-offs
 - Plan migration from REST to tRPC
+- Evaluate feature flag service options
