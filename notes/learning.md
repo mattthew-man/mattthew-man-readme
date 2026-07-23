@@ -70,3 +70,4 @@
 - Read OWASP top 10 2025 updates
 - Read OWASP top 10 2025 updates
 - Explored radix UI primitive components
+- Explored radix UI primitive components
