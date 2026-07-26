@@ -61,3 +61,4 @@
 - Explore generative backgrounds for hero section
 - Explore generative backgrounds for hero section
 - Progressive disclosure for long form content
+- Add reading time estimate to blog posts
