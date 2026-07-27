@@ -72,3 +72,4 @@
 - Explored radix UI primitive components
 - Explored radix UI primitive components
 - Followed WebGPU getting-started guide
+- Reviewed RFC for cookie partitioning
