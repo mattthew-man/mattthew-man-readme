@@ -66,3 +66,4 @@
 - A11Y Project checklist v3
 - MDN: CSS Cascade Layers deep dive
 - RFC 9110 HTTP Semantics
+- V8 optimisation flags cheatsheet
