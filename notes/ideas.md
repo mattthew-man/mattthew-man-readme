@@ -64,3 +64,4 @@
 - Add reading time estimate to blog posts
 - Consider a /uses page
 - Add keyboard shortcut overlay (shift+?)
+- Auto-detect user timezone for datetime display
