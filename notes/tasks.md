@@ -70,3 +70,4 @@
 - Profile main bundle for size regressions
 - Resolve accessibility audit findings
 - Coordinate API versioning with mobile team
+- Set up staging deploy pipeline
