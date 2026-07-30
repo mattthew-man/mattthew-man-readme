@@ -65,3 +65,4 @@
 - Consider a /uses page
 - Add keyboard shortcut overlay (shift+?)
 - Auto-detect user timezone for datetime display
+- Live code preview in portfolio case studies
