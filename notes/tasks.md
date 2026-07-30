@@ -69,3 +69,4 @@
 - Write test plan for new auth flow
 - Profile main bundle for size regressions
 - Resolve accessibility audit findings
+- Coordinate API versioning with mobile team
