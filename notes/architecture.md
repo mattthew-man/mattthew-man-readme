@@ -65,3 +65,4 @@
 - Plan migration from REST to tRPC
 - Evaluate feature flag service options
 - Document DB indexing strategy for analytics queries
+- Evaluate BFF pattern for mobile API
