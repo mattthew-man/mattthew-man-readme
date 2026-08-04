@@ -74,3 +74,4 @@
 - Followed WebGPU getting-started guide
 - Reviewed RFC for cookie partitioning
 - Read patterns for server-side streaming
+- Read OWASP top 10 2025 updates
