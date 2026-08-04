@@ -66,3 +66,4 @@
 - Evaluate feature flag service options
 - Document DB indexing strategy for analytics queries
 - Evaluate BFF pattern for mobile API
+- Consider CQRS for write-heavy flows
