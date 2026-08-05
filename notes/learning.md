@@ -76,3 +76,4 @@
 - Read patterns for server-side streaming
 - Read OWASP top 10 2025 updates
 - Read patterns for server-side streaming
+- Read through the Temporal API proposal
