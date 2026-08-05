@@ -74,3 +74,4 @@
 - Update feature flags for next release
 - Set up staging deploy pipeline
 - Write test plan for new auth flow
+- Coordinate API versioning with mobile team
