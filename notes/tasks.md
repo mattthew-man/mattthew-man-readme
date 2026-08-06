@@ -75,3 +75,4 @@
 - Set up staging deploy pipeline
 - Write test plan for new auth flow
 - Coordinate API versioning with mobile team
+- Profile main bundle for size regressions
