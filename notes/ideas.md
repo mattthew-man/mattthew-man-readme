@@ -67,3 +67,4 @@
 - Auto-detect user timezone for datetime display
 - Live code preview in portfolio case studies
 - Interactive skills radar chart
+- Explore generative backgrounds for hero section
