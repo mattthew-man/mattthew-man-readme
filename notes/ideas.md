@@ -68,3 +68,4 @@
 - Live code preview in portfolio case studies
 - Interactive skills radar chart
 - Explore generative backgrounds for hero section
+- Inline editing for quick content fixes
