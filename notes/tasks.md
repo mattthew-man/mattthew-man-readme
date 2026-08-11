@@ -77,3 +77,4 @@
 - Coordinate API versioning with mobile team
 - Profile main bundle for size regressions
 - Set up staging deploy pipeline
+- Resolve accessibility audit findings
