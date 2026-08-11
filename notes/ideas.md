@@ -69,3 +69,4 @@
 - Interactive skills radar chart
 - Explore generative backgrounds for hero section
 - Inline editing for quick content fixes
+- Add reading time estimate to blog posts
