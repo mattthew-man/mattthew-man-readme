@@ -67,3 +67,4 @@
 - Document DB indexing strategy for analytics queries
 - Evaluate BFF pattern for mobile API
 - Consider CQRS for write-heavy flows
+- Plan migration from REST to tRPC
