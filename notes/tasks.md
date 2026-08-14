@@ -78,3 +78,4 @@
 - Profile main bundle for size regressions
 - Set up staging deploy pipeline
 - Resolve accessibility audit findings
+- Resolve accessibility audit findings
