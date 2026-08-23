@@ -79,3 +79,4 @@
 - Read through the Temporal API proposal
 - Explored radix UI primitive components
 - Studied HTTP/3 connection migration
+- Read patterns for server-side streaming
