@@ -69,3 +69,4 @@
 - Consider CQRS for write-heavy flows
 - Plan migration from REST to tRPC
 - Audit service boundary definitions
+- Audit service boundary definitions
