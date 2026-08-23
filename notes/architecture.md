@@ -70,3 +70,4 @@
 - Plan migration from REST to tRPC
 - Audit service boundary definitions
 - Audit service boundary definitions
+- Investigate edge caching for static API responses
