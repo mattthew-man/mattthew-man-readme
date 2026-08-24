@@ -75,3 +75,4 @@
 - Node.js streams handbook
 - Resilience patterns: circuit breaker, bulkhead
 - https://web.dev/articles/vitals - Core Web Vitals
+- Node.js streams handbook
