@@ -72,3 +72,4 @@
 - Audit service boundary definitions
 - Investigate edge caching for static API responses
 - Consider CQRS for write-heavy flows
+- Evaluate BFF pattern for mobile API
