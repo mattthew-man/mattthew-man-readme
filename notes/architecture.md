@@ -71,3 +71,4 @@
 - Audit service boundary definitions
 - Audit service boundary definitions
 - Investigate edge caching for static API responses
+- Consider CQRS for write-heavy flows
