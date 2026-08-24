@@ -71,3 +71,4 @@
 - Inline editing for quick content fixes
 - Add reading time estimate to blog posts
 - Consider a /uses page
+- Auto-detect user timezone for datetime display
