@@ -80,3 +80,4 @@
 - Explored radix UI primitive components
 - Studied HTTP/3 connection migration
 - Read patterns for server-side streaming
+- Completed module on WebAssembly basics
