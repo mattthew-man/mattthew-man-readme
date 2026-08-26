@@ -74,3 +74,4 @@
 - Consider CQRS for write-heavy flows
 - Evaluate BFF pattern for mobile API
 - Plan migration from REST to tRPC
+- Consider CQRS for write-heavy flows
