@@ -77,3 +77,4 @@
 - https://web.dev/articles/vitals - Core Web Vitals
 - Node.js streams handbook
 - Git internals: pack files and deltas
+- HTTP caching decision tree
