@@ -77,3 +77,4 @@
 - Consider CQRS for write-heavy flows
 - Plan migration from REST to tRPC
 - Plan migration from REST to tRPC
+- Review event sourcing vs state store trade-offs
