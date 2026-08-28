@@ -74,3 +74,4 @@
 - Auto-detect user timezone for datetime display
 - Live code preview in portfolio case studies
 - Add reading time estimate to blog posts
+- Consider a /uses page
