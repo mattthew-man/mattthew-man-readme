@@ -81,3 +81,4 @@
 - Resolve accessibility audit findings
 - Update feature flags for next release
 - Profile main bundle for size regressions
+- Set up staging deploy pipeline
