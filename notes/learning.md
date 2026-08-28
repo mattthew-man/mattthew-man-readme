@@ -82,3 +82,4 @@
 - Read patterns for server-side streaming
 - Completed module on WebAssembly basics
 - Read through the Temporal API proposal
+- Explored radix UI primitive components
