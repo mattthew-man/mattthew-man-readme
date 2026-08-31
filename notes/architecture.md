@@ -82,3 +82,4 @@
 - Consider CQRS for write-heavy flows
 - Document retry and backoff strategy
 - Document DB indexing strategy for analytics queries
+- Evaluate BFF pattern for mobile API
