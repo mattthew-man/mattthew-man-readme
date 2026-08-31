@@ -78,3 +78,4 @@
 - Explore generative backgrounds for hero section
 - Live code preview in portfolio case studies
 - Experiment with variable fonts for performance
+- Inline editing for quick content fixes
