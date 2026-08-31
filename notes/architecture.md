@@ -78,3 +78,4 @@
 - Plan migration from REST to tRPC
 - Plan migration from REST to tRPC
 - Review event sourcing vs state store trade-offs
+- Audit service boundary definitions
