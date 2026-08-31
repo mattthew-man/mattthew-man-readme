@@ -81,3 +81,4 @@
 - Audit service boundary definitions
 - Consider CQRS for write-heavy flows
 - Document retry and backoff strategy
+- Document DB indexing strategy for analytics queries
