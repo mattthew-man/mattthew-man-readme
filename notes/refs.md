@@ -78,3 +78,4 @@
 - Node.js streams handbook
 - Git internals: pack files and deltas
 - HTTP caching decision tree
+- RFC 9110 HTTP Semantics
