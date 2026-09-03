@@ -82,3 +82,4 @@
 - https://tc39.es/ecma262 - ECMAScript spec reference
 - Node.js streams handbook
 - Git internals: pack files and deltas
+- MDN: CSS Cascade Layers deep dive
