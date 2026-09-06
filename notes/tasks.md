@@ -85,3 +85,4 @@
 - Set up staging deploy pipeline
 - Review open Dependabot PRs
 - Schedule design review with stakeholders
+- Schedule design review with stakeholders
