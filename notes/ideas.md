@@ -80,3 +80,4 @@
 - Experiment with variable fonts for performance
 - Inline editing for quick content fixes
 - Auto-detect user timezone for datetime display
+- Consider a /uses page
