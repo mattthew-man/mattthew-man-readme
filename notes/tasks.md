@@ -86,3 +86,4 @@
 - Review open Dependabot PRs
 - Schedule design review with stakeholders
 - Schedule design review with stakeholders
+- Audit Lighthouse scores after latest changes
