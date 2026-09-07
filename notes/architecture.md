@@ -84,3 +84,4 @@
 - Document DB indexing strategy for analytics queries
 - Evaluate BFF pattern for mobile API
 - Investigate edge caching for static API responses
+- Evaluate feature flag service options
