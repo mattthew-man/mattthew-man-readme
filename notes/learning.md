@@ -85,3 +85,4 @@
 - Explored radix UI primitive components
 - Followed WebGPU getting-started guide
 - Completed module on WebAssembly basics
+- Reviewed RFC for cookie partitioning
