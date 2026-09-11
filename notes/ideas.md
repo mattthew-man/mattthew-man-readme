@@ -81,3 +81,4 @@
 - Inline editing for quick content fixes
 - Auto-detect user timezone for datetime display
 - Consider a /uses page
+- Experiment with variable fonts for performance
