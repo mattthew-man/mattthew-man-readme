@@ -87,3 +87,4 @@
 - Evaluate feature flag service options
 - Audit service boundary definitions
 - Document retry and backoff strategy
+- Consider CQRS for write-heavy flows
