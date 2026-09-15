@@ -86,3 +86,4 @@
 - Investigate edge caching for static API responses
 - Evaluate feature flag service options
 - Audit service boundary definitions
+- Document retry and backoff strategy
