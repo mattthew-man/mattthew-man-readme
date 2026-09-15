@@ -87,3 +87,4 @@
 - Git internals: pack files and deltas
 - Node.js streams handbook
 - Resilience patterns: circuit breaker, bulkhead
+- V8 optimisation flags cheatsheet
