@@ -87,3 +87,4 @@
 - Completed module on WebAssembly basics
 - Reviewed RFC for cookie partitioning
 - Explored radix UI primitive components
+- Read OWASP top 10 2025 updates
