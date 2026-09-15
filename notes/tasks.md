@@ -88,3 +88,4 @@
 - Schedule design review with stakeholders
 - Audit Lighthouse scores after latest changes
 - Coordinate API versioning with mobile team
+- Coordinate API versioning with mobile team
