@@ -89,3 +89,4 @@
 - Resilience patterns: circuit breaker, bulkhead
 - V8 optimisation flags cheatsheet
 - RFC 9110 HTTP Semantics
+- HTTP caching decision tree
