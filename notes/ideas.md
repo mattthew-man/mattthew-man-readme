@@ -84,3 +84,4 @@
 - Experiment with variable fonts for performance
 - Add reading time estimate to blog posts
 - Experiment with variable fonts for performance
+- Interactive skills radar chart
