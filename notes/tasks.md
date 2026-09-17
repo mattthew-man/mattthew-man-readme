@@ -89,3 +89,4 @@
 - Audit Lighthouse scores after latest changes
 - Coordinate API versioning with mobile team
 - Coordinate API versioning with mobile team
+- Review open Dependabot PRs
