@@ -91,3 +91,4 @@
 - Coordinate API versioning with mobile team
 - Review open Dependabot PRs
 - Profile main bundle for size regressions
+- Resolve accessibility audit findings
