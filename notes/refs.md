@@ -91,3 +91,4 @@
 - RFC 9110 HTTP Semantics
 - HTTP caching decision tree
 - A11Y Project checklist v3
+- https://web.dev/articles/vitals - Core Web Vitals
