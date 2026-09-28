@@ -90,3 +90,4 @@
 - Read OWASP top 10 2025 updates
 - Read through the Temporal API proposal
 - Reviewed Signals proposal for reactivity
+- Explored radix UI primitive components
