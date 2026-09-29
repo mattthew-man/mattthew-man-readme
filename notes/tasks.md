@@ -92,3 +92,4 @@
 - Review open Dependabot PRs
 - Profile main bundle for size regressions
 - Resolve accessibility audit findings
+- Set up staging deploy pipeline
