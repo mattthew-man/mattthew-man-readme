@@ -91,3 +91,4 @@
 - Read through the Temporal API proposal
 - Reviewed Signals proposal for reactivity
 - Explored radix UI primitive components
+- Reviewed RFC for cookie partitioning
