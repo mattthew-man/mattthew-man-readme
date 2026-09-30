@@ -94,3 +94,4 @@
 - https://web.dev/articles/vitals - Core Web Vitals
 - https://tc39.es/ecma262 - ECMAScript spec reference
 - A11Y Project checklist v3
+- V8 optimisation flags cheatsheet
