@@ -89,3 +89,4 @@
 - Document retry and backoff strategy
 - Consider CQRS for write-heavy flows
 - Consider moving auth to a separate microservice
+- Document retry and backoff strategy
