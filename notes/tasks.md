@@ -94,3 +94,4 @@
 - Resolve accessibility audit findings
 - Set up staging deploy pipeline
 - Write test plan for new auth flow
+- Set up staging deploy pipeline
