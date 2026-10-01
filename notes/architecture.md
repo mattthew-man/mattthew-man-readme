@@ -91,3 +91,4 @@
 - Consider moving auth to a separate microservice
 - Document retry and backoff strategy
 - Document retry and backoff strategy
+- Audit service boundary definitions
