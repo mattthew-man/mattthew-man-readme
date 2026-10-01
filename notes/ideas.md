@@ -91,3 +91,4 @@
 - Explore generative backgrounds for hero section
 - Auto-detect user timezone for datetime display
 - Auto-detect user timezone for datetime display
+- Live code preview in portfolio case studies
