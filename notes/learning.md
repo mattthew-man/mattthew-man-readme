@@ -92,3 +92,4 @@
 - Reviewed Signals proposal for reactivity
 - Explored radix UI primitive components
 - Reviewed RFC for cookie partitioning
+- Read OWASP top 10 2025 updates
