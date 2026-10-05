@@ -93,3 +93,4 @@
 - Document retry and backoff strategy
 - Audit service boundary definitions
 - Consider moving auth to a separate microservice
+- Consider CQRS for write-heavy flows
