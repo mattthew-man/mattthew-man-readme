@@ -93,3 +93,4 @@
 - Explored radix UI primitive components
 - Reviewed RFC for cookie partitioning
 - Read OWASP top 10 2025 updates
+- Read OWASP top 10 2025 updates
