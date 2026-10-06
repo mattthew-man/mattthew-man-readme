@@ -95,3 +95,4 @@
 - Interactive skills radar chart
 - Inline editing for quick content fixes
 - Consider a /uses page
+- Interactive skills radar chart
