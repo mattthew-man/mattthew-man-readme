@@ -94,3 +94,4 @@
 - Live code preview in portfolio case studies
 - Interactive skills radar chart
 - Inline editing for quick content fixes
+- Consider a /uses page
