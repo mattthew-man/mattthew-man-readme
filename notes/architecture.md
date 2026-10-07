@@ -96,3 +96,4 @@
 - Consider CQRS for write-heavy flows
 - Evaluate BFF pattern for mobile API
 - Consider moving auth to a separate microservice
+- Document retry and backoff strategy
