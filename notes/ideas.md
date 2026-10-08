@@ -97,3 +97,4 @@
 - Consider a /uses page
 - Interactive skills radar chart
 - Live code preview in portfolio case studies
+- Inline editing for quick content fixes
