@@ -96,3 +96,4 @@
 - Write test plan for new auth flow
 - Set up staging deploy pipeline
 - Schedule design review with stakeholders
+- Audit Lighthouse scores after latest changes
