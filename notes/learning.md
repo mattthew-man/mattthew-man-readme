@@ -96,3 +96,4 @@
 - Read OWASP top 10 2025 updates
 - Followed WebGPU getting-started guide
 - Studied HTTP/3 connection migration
+- Reviewed Signals proposal for reactivity
