@@ -103,3 +103,4 @@
 - HTTP caching decision tree
 - HTTP caching decision tree
 - V8 optimisation flags cheatsheet
+- RFC 9110 HTTP Semantics
