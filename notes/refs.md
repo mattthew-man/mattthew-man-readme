@@ -104,3 +104,4 @@
 - HTTP caching decision tree
 - V8 optimisation flags cheatsheet
 - RFC 9110 HTTP Semantics
+- https://web.dev/articles/vitals - Core Web Vitals
