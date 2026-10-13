@@ -97,3 +97,4 @@
 - Evaluate BFF pattern for mobile API
 - Consider moving auth to a separate microservice
 - Document retry and backoff strategy
+- Document DB indexing strategy for analytics queries
