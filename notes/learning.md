@@ -97,3 +97,4 @@
 - Followed WebGPU getting-started guide
 - Studied HTTP/3 connection migration
 - Reviewed Signals proposal for reactivity
+- Reviewed RFC for cookie partitioning
