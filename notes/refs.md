@@ -105,3 +105,4 @@
 - V8 optimisation flags cheatsheet
 - RFC 9110 HTTP Semantics
 - https://web.dev/articles/vitals - Core Web Vitals
+- https://web.dev/articles/vitals - Core Web Vitals
