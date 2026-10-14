@@ -99,3 +99,4 @@
 - Reviewed Signals proposal for reactivity
 - Reviewed RFC for cookie partitioning
 - Explored radix UI primitive components
+- Reviewed RFC for cookie partitioning
