@@ -98,3 +98,4 @@
 - Consider moving auth to a separate microservice
 - Document retry and backoff strategy
 - Document DB indexing strategy for analytics queries
+- Investigate edge caching for static API responses
